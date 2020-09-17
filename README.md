@@ -19,6 +19,8 @@ https://webdevblog.ru/nasledovanie-i-kompoziciya-rukovodstvo-po-oop-python/#:~:t
 
 https://python-scripts.com/decorators
 
+https://rszalski.github.io/magicmethods/
+
 Style Guides
 
 https://habr.com/ru/post/179271/
